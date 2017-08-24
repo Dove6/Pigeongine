@@ -458,12 +458,14 @@ sound::sound(char *fname)
 //Domyślny dekonstruktor.
 sound::~sound()
 {
-    if (metadata.playing) stop();
+    if (metadata.playing) {
+        stop();
+        Pa_Terminate();
+    }
 
     for (int channel = 0; channel < metadata.channels; channel++)
         free(data[channel]);
     free(data);
-    Pa_Terminate();
 }
 
 //Metoda rozpoczynająca odtwarzanie dźwięku.

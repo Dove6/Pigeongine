@@ -179,3 +179,17 @@
 
 1503061311 d:\programowanie\sound++\imp.h
 
+1503597145 source:d:\programowanie\pigeongine_git\pigeongine\main.cpp
+	<time.h>
+	"dec.h"
+	"imp.h"
+
+1503597145 d:\programowanie\pigeongine_git\pigeongine\dec.h
+	<portaudio.h>
+	<FLAC/all.h>
+	<stdio.h>
+	<string.h>
+	<pthread.h>
+
+1503597145 d:\programowanie\pigeongine_git\pigeongine\imp.h
+

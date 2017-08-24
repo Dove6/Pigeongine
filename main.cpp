@@ -69,6 +69,11 @@ int main(int argc, char **argv) {
                 printf("%s: volume %f\n", TEST_SND2->filename, TEST_SND2->metadata.volume);
                 break;
             }
+            case 'q': {
+                delete TEST_SND;
+                delete TEST_SND2;
+                return 0;
+            }
             default:
                 break;
         }

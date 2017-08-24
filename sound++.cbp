@@ -40,6 +40,10 @@
 			<Add option="-lwinmm" />
 			<Add option="-lSetupAPI" />
 			<Add option="-lpthread" />
+			<Add option="-static-libgcc" />
+			<Add option="-static-libstdc++" />
+			<Add option="-static" />
+			<Add option="-lwinpthread" />
 			<Add directory="D:/label/Pobrane/biblioteki/lib" />
 		</Linker>
 		<Unit filename="dec.h" />

@@ -1,0 +1,181 @@
+# depslib dependency file v1.0
+1501867366 source:d:\programowanie\sound\main.c
+	"portaudio.h"
+	<FLAC/all.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1454270561 d:\label\pobrane\biblioteki\include\soundio\soundio.h
+	"endian.h"
+	<stdbool.h>
+
+1454270561 d:\label\pobrane\biblioteki\include\soundio\endian.h
+
+1481145026 d:\label\pobrane\biblioteki\include\flac\all.h
+	"export.h"
+	"assert.h"
+	"callback.h"
+	"format.h"
+	"metadata.h"
+	"ordinals.h"
+	"stream_decoder.h"
+	"stream_encoder.h"
+
+1481145026 d:\label\pobrane\biblioteki\include\flac\export.h
+
+1481145026 d:\label\pobrane\biblioteki\include\flac\assert.h
+	<assert.h>
+
+1481145026 d:\label\pobrane\biblioteki\include\flac\callback.h
+	"ordinals.h"
+	<stdlib.h>
+
+1481145026 d:\label\pobrane\biblioteki\include\flac\ordinals.h
+	<stdint.h>
+
+1481145026 d:\label\pobrane\biblioteki\include\flac\format.h
+	"export.h"
+	"ordinals.h"
+
+1481145026 d:\label\pobrane\biblioteki\include\flac\metadata.h
+	<sys/types.h>
+	"export.h"
+	"callback.h"
+	"format.h"
+
+1481145026 d:\label\pobrane\biblioteki\include\flac\stream_decoder.h
+	<stdio.h>
+	"export.h"
+	"format.h"
+
+1481145026 d:\label\pobrane\biblioteki\include\flac\stream_encoder.h
+	<stdio.h>
+	"export.h"
+	"format.h"
+	"stream_decoder.h"
+
+1477794184 d:\label\pobrane\biblioteki\include\portaudio.h
+
+1501615698 d:\programowanie\sound\win.h
+
+1477794184 source:d:\label\pobrane\portaudio\src\common\pa_ringbuffer.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"pa_ringbuffer.h"
+	<string.h>
+	"pa_memorybarrier.h"
+
+1477794184 d:\label\pobrane\portaudio\src\common\pa_ringbuffer.h
+	<sys/types.h>
+
+1477794184 d:\label\pobrane\portaudio\src\common\pa_memorybarrier.h
+	<libkern/OSAtomic.h>
+	<intrin.h>
+
+1454270561 source:d:\label\pobrane\libsoundio-1.1.0.tar\libsoundio-1.1.0\libsoundio-1.1.0\src\soundio.c
+	"soundio_private.h"
+	"util.h"
+	"os.h"
+	"config.h"
+	<string.h>
+	<assert.h>
+	<stdio.h>
+
+1454270561 d:\label\pobrane\libsoundio-1.1.0.tar\libsoundio-1.1.0\libsoundio-1.1.0\src\soundio_private.h
+	"soundio_internal.h"
+	"config.h"
+	"jack.h"
+	"pulseaudio.h"
+	"alsa.h"
+	"coreaudio.h"
+	"wasapi.h"
+	"dummy.h"
+
+1454270561 d:\label\pobrane\libsoundio-1.1.0.tar\libsoundio-1.1.0\libsoundio-1.1.0\src\soundio_internal.h
+	"soundio/soundio.h"
+
+1501416228 d:\label\pobrane\libsoundio-1.1.0.tar\libsoundio-1.1.0\libsoundio-1.1.0\src\config.h
+
+1454270561 d:\label\pobrane\libsoundio-1.1.0.tar\libsoundio-1.1.0\libsoundio-1.1.0\src\jack.h
+	"soundio_internal.h"
+	"os.h"
+	"atomics.h"
+	<jack/jack.h>
+
+1454270561 d:\label\pobrane\libsoundio-1.1.0.tar\libsoundio-1.1.0\libsoundio-1.1.0\src\os.h
+	<stdbool.h>
+	<stddef.h>
+
+1454270561 d:\label\pobrane\libsoundio-1.1.0.tar\libsoundio-1.1.0\libsoundio-1.1.0\src\atomics.h
+	<atomic>
+	<stdatomic.h>
+
+1454270561 d:\label\pobrane\libsoundio-1.1.0.tar\libsoundio-1.1.0\libsoundio-1.1.0\src\pulseaudio.h
+	"soundio_internal.h"
+	"atomics.h"
+	<pulse/pulseaudio.h>
+
+1454270561 d:\label\pobrane\libsoundio-1.1.0.tar\libsoundio-1.1.0\libsoundio-1.1.0\src\alsa.h
+	"soundio_internal.h"
+	"os.h"
+	"list.h"
+	"atomics.h"
+	<alsa/asoundlib.h>
+
+1454270561 d:\label\pobrane\libsoundio-1.1.0.tar\libsoundio-1.1.0\libsoundio-1.1.0\src\list.h
+	"util.h"
+	"soundio_internal.h"
+	<assert.h>
+
+1454270561 d:\label\pobrane\libsoundio-1.1.0.tar\libsoundio-1.1.0\libsoundio-1.1.0\src\util.h
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<stdbool.h>
+
+1454270561 d:\label\pobrane\libsoundio-1.1.0.tar\libsoundio-1.1.0\libsoundio-1.1.0\src\coreaudio.h
+	"soundio_internal.h"
+	"os.h"
+	"list.h"
+	"atomics.h"
+	<CoreAudio/CoreAudio.h>
+	<AudioUnit/AudioUnit.h>
+
+1454270561 d:\label\pobrane\libsoundio-1.1.0.tar\libsoundio-1.1.0\libsoundio-1.1.0\src\wasapi.h
+	"soundio_internal.h"
+	"os.h"
+	"list.h"
+	"atomics.h"
+	<windows.h>
+	<mmdeviceapi.h>
+	<audioclient.h>
+	<audiosessiontypes.h>
+	<audiopolicy.h>
+
+1454270561 d:\label\pobrane\libsoundio-1.1.0.tar\libsoundio-1.1.0\libsoundio-1.1.0\src\dummy.h
+	"soundio_internal.h"
+	"os.h"
+	"ring_buffer.h"
+	"atomics.h"
+
+1454270561 d:\label\pobrane\libsoundio-1.1.0.tar\libsoundio-1.1.0\libsoundio-1.1.0\src\ring_buffer.h
+	"os.h"
+	"atomics.h"
+
+1503059138 source:d:\programowanie\sound++\main.cpp
+	<time.h>
+	"dec.h"
+	"imp.h"
+
+1502895068 d:\programowanie\sound++\dec.h
+	<portaudio.h>
+	<FLAC/all.h>
+	<stdio.h>
+	<string.h>
+	<pthread.h>
+
+1503061311 d:\programowanie\sound++\imp.h
+

@@ -1,0 +1,117 @@
+# depslib dependency file v1.0
+1471163721 source:d:\programy\pliki - programowanie, tworzenie stron\programowanie\weatherpigeon\main.cpp
+	<GL/glew.h>
+	<GLFW/glfw3.h>
+	<GLFW/glfw3native.h>
+	<stdlib.h>
+	<stdio.h>
+	<iostream>
+	<cmath>
+	<cstring>
+	<sstream>
+	<windows.h>
+
+1471163721 >
+
+1471198667 source:/media/label/TURKAWKA/ZZZ soft ZZZ/Programowanie/WeatherPigeon/main.cpp
+	<GL/glew.h>
+	<GLFW/glfw3.h>
+	<windows.h>
+	<X11/Xlibint.h>
+	<X11/Xutil.h>
+	<X11/StringDefs.h>
+	<unistd.h>
+	<GLFW/glfw3native.h>
+	<stdlib.h>
+	<stdio.h>
+	<iostream>
+	<cmath>
+	<ctime>
+	<cstring>
+	<sstream>
+
+1471202358 source:g:\zzz soft zzz\programowanie\weatherpigeon\main.cpp
+	<GL/glew.h>
+	<GLFW/glfw3.h>
+	<windows.h>
+	<X11/Xlibint.h>
+	<X11/Xutil.h>
+	<X11/StringDefs.h>
+	<unistd.h>
+	<GLFW/glfw3native.h>
+	<stdlib.h>
+	<stdio.h>
+	<iostream>
+	<cmath>
+	<ctime>
+	<cstring>
+	<sstream>
+
+1471278588 source:e:\programowanie\weatherpigeon\main.cpp
+	<GL/glew.h>
+	<GLFW/glfw3.h>
+	<windows.h>
+	<X11/Xlibint.h>
+	<X11/Xutil.h>
+	<X11/StringDefs.h>
+	<unistd.h>
+	<GLFW/glfw3native.h>
+	<stdlib.h>
+	<stdio.h>
+	<iostream>
+	<cmath>
+	<ctime>
+	<cstring>
+	<sstream>
+
+1472067798 source:e:\programowanie\pigeongine\main.cpp
+	<GL/glew.h>
+	<GLFW/glfw3.h>
+	<windows.h>
+	<X11/Xlibint.h>
+	<X11/Xutil.h>
+	<X11/StringDefs.h>
+	<unistd.h>
+	<GLFW/glfw3native.h>
+	<stdlib.h>
+	<stdio.h>
+	<iostream>
+	<cmath>
+	<ctime>
+	<cstring>
+	<sstream>
+	<process.h>
+	"rex.h"
+
+1472062318 e:\programowanie\pigeongine\rex.h
+
+1472935219 source:e:\programowanie\testy\tesktury\main.cpp
+	<GL/glew.h>
+	<GLFW/glfw3.h>
+	<windows.h>
+	<X11/Xlibint.h>
+	<X11/Xutil.h>
+	<X11/StringDefs.h>
+	<unistd.h>
+	<GLFW/glfw3native.h>
+	<cstdlib>
+	<cstdio>
+	<csetjmp>
+	<iostream>
+	<cmath>
+	<ctime>
+	<cstring>
+	<sstream>
+	<limits>
+	<process.h>
+	<zlib.h>
+	<png.h>
+	"jconfig.h"
+	<jpeglib.h>
+
+1472104520 e:\programowanie\testy\tesktury\zubr.h
+
+1472119799 e:\programowanie\testy\tesktury\zubr2.h
+
+1472246483 e:\programowanie\testy\tesktury\jconfig.h
+

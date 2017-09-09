@@ -115,3 +115,11 @@
 
 1472246483 e:\programowanie\testy\tesktury\jconfig.h
 
+1504436006 source:d:\programowanie\pigeongine_git\pigeongine\glad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<glad/glad.h>
+	<windows.h>
+	<dlfcn.h>
+

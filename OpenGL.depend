@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1504436006 source:d:\programowanie\opengl_modern\basics\glad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<glad/glad.h>
+	<windows.h>
+	<dlfcn.h>
+
+1504704630 source:d:\programowanie\opengl_modern\basics\main.cpp
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<time.h>
+	<string.h>
+	<glad/glad.h>
+	<GLFW/glfw3.h>
+
+1504436006 source:d:\programowanie\opengl_modern\mat\glad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<glad/glad.h>
+	<windows.h>
+	<dlfcn.h>
+
+1504871287 source:d:\programowanie\opengl_modern\mat\main.cpp
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<time.h>
+	<string.h>
+	<glad/glad.h>
+	<GLFW/glfw3.h>
+	<linmath.h>
+
+1504436006 source:d:\programowanie\opengl_modern\tex\glad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<glad/glad.h>
+	<windows.h>
+	<dlfcn.h>
+
+1504952041 source:d:\programowanie\opengl_modern\tex\main.cpp
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<time.h>
+	<string.h>
+	<glad/glad.h>
+	<GLFW/glfw3.h>
+	<setjmp.h>
+	<jconfig.h>
+	<jpeglib.h>
+	<matstack.h>
+
